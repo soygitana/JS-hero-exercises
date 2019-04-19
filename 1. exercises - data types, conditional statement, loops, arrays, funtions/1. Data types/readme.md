@@ -1,3 +1,5 @@
+# DATA TYPES
+
 ### Typy danych  (~ 2min - 5min)
 
 Stwórz zmienną ```numberOfUsers``` i podstaw pod nią dowolną liczbę. Następnie stwórz nową zmienną ```result``` i podstaw pod nią wynik dzielenia ```numberOfUsers``` przez 2. Zaokrąglij wynik w dół i wypisz w konsoli.
