@@ -1,3 +1,5 @@
+# Conditional statment
+
 ### Losowanie &ndash;  (~ 5min - 10 min)
 
 Wylosuj liczbę z zakresu 1 - 100 i zapisz do zmiennej. Następnie sprawdź za pomocą instrukcji warunkowej czy liczba jest większa od 50 jeśli tak to wypisz w konsoli "Hura", w przeciwnym przypadku wypisz "liczba mniejsza niż 50".
