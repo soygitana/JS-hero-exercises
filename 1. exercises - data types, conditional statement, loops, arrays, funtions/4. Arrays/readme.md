@@ -1,10 +1,4 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
-
-#  Tablice
-
-> Pamiętaj, żeby oddzielać ćwiczenia komentarzami i pisać czytelny, dobrze sformatowany kod.
-
-## Zadania rozwiązywane z wykładowcą
+#  Arrays
 
 ### Wypisywanie tablicy (~ 5min - 7min)
 
@@ -26,10 +20,6 @@ Na podstawie dowolnego stringa, stwórz tablicę, której elementami będą sło
 var string =  "My name is Bond, James Bond";
 Wynik w konsoli: 2, 4, 2, 4, 5, 4
 ```
-
--------------------------------------------------------------------------------
-
-## Zadania do samodzielnego wykonania
 
 ### Zadanie 1 (~ 10min - 15 min)
 Stwórz tablicę z dowolnymi liczbami. Następnie oblicz średnią arytmetyczną z liczb znajdujących się w tej tablicy i wypisz ją w konsoli.
