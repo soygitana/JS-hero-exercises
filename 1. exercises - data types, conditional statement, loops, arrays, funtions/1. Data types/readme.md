@@ -1,4 +1,4 @@
-# DATA TYPES
+# Data types
 
 ### Typy danych  (~ 2min - 5min)
 
