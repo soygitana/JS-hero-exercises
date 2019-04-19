@@ -1,10 +1,5 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+#  Functions
 
-#  Funkcje
-
-> Pamiętaj, żeby oddzielać ćwiczenia komentarzami i pisać czytelny, dobrze sformatowany kod.
-
-## Zadania rozwiązywane z wykładowcą
 
 ### FooBar ...FOOBAR  (~ 7min - 12min)
 
@@ -25,9 +20,6 @@ Na przykład dla parametru ```x = 15``` wynik ma być następujący:
 Napisz funkcję przyjmującą dwie liczby jako argumenty: **a** i **n**. Funkcja **ma zwracać**  wynik **a** do potęgi **n**.
 Użyj pętli, a nie ```Math.pow()```. Zadanie rozwiąż w pliku `app.js`.
 
--------------------------------------------------------------------------------
-
-## Zadania do samodzielnego wykonania
 
 ### Zadanie 1 (~ 5min - 10min)
 Napisz funkcję miksującą o nazwie ```miksowanie```, która jako argument będzie przyjmowała napis.
