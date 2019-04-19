@@ -1,10 +1,5 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+#  Loops
 
-#  Pętle
-
-> Pamiętaj, żeby oddzielać ćwiczenia komentarzami i pisać czytelny, dobrze sformatowany kod.
-
-## Zadania rozwiązywane z wykładowcą
 
 ### Silnia (~ 7min - 12min)
 
@@ -31,9 +26,6 @@ Napisz program rysujący na podstawie wartości zmiennej **n** następujący sch
 Do rozwiązania zadania stwórz zmienną **result**, do której dopisuj gwiadzkę (`*`), pustą spację (` `), lub znak nowej linii (`\n`).
 Rozwiąż zadanie za pomocą pętli for i while.
 
--------------------------------------------------------------------------------
-
-## Zadania do samodzielnego wykonania
 
 ### Zadanie 1 (~ 10min - 15 min)
 
