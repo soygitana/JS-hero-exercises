@@ -34,7 +34,6 @@ console.log(getEvenSum(n));
 Wynik w consoli:  6 // (bo 2 + 4 = 6)
 ```
 
-## Zadania dodatkowe
 
 ### Zadanie 4
 
