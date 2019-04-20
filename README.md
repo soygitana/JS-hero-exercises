@@ -56,21 +56,19 @@
  * task 5 - includes
  
  3.2 CONDITIONAL STATMENT
- * task 1 
- * task 2
- * task 3 
+ * task 1 - if, else
+ * task 2 - prompt
+ * task 3 - prompt, if, else
  
 3.3 LOOPS
- * task 1 
- * task 2
- * task 3 
- * task 4 
- * task 5 
+ * task 1 - even and odd 
+ * task 2 - sum
+ * task 3 - nested loops
  
 3.4 ARRAYS
- * task 1 
- * task 2
- * task 3 
+ * task 1 - average
+ * task 2 - array modification
+ * task 3 - arrays comparison
  
 3.5 FUNCTIONS
 * task 1
