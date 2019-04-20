@@ -63,6 +63,6 @@
 
 
 
-Logo
+
 
 Copyright © Coders Lab
