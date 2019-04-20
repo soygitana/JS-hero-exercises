@@ -3,12 +3,12 @@
 ### various exercises for JS practice
 
 ##### 1. PREWORK
-1.1 data types
+1.1 DATA TYPES
 * task 1 - typeof
 * task 2 - sum 
 * task 3 - undefined
 
-1.2 operators
+1.2 OPERATORS
 * task 1 - comparison operators
 * task 2 - modulo
 * task 3 - joining strings
@@ -16,7 +16,7 @@
 * task 5 - counter
 * task 6 - null
 
-1.3 program flow control
+1.3 PROGRAM FLOW CONTROL
 * task 1 - if
 * task 2 - else if, logical operators
 * task 3 - loop
@@ -26,7 +26,7 @@
 * task 7 - nested loops 
 * task 8 - nested loops 
 
-1.4 arrays
+1.4 ARRAYS
 * task 1 - array
 * task 2 - array.length
 * task 3 - array, loop
@@ -47,31 +47,31 @@
 
 
 ##### 3. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
-3.1 data types
+3.1 DATA TYPES
  * task 1 
  * task 2
  * task 3 
  * task 4 
  * task 5 
  
- 3.2 conditional statment
+ 3.2 CONDITIONAL STATMENT
  * task 1 
  * task 2
  * task 3 
  
-3.3 loops
+3.3 LOOPS
  * task 1 
  * task 2
  * task 3 
  * task 4 
  * task 5 
  
-3.4 arrays
+3.4 ARRAYS
  * task 1 
  * task 2
  * task 3 
  
-3.5 functions
+3.5 FUNCTIONS
 * task 1
 * task 2
 * task 3
@@ -81,7 +81,7 @@
 * task 7
 * task 8
 
-3.6 functions 2
+3.6 FUNCTIONS 2
 
 3.6.1 functions basic
 * task 1
