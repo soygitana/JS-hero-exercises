@@ -1,6 +1,7 @@
 ### JS HERO - EXERCISES
 ----
 ### various exercises for JS practice
+----
 
 #### 1. PREWORK
 1.1 DATA TYPES
