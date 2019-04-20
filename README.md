@@ -82,7 +82,7 @@
 
 3.6 functions 2
 
-3.6.1 basic
+3.6.1 functions basic
 * task 1
 * task 2
 * task 3
@@ -92,7 +92,7 @@
 * task 7
 * task 8
 
-3.6.2 advanced
+3.6.2 functions advanced
 
 
 
