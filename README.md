@@ -34,7 +34,7 @@
 * task 6 - index
 * task 7 - array reverse 
 
-##### 1. JS MASTER
+##### 2. JS MASTER
 * task 1 - get second max number
 * task 2 - get negative numbers
 * task 3 - get even sum
@@ -45,32 +45,32 @@
 * task 8 - sine and cosine 
 
 
-##### 2. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
-2.1 data types
+##### 3. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
+3.1 data types
  * task 1 
  * task 2
  * task 3 
  * task 4 
  * task 5 
  
- 2.2 conditional statment
+ 3.2 conditional statment
  * task 1 
  * task 2
  * task 3 
  
-2.3 loops
+3.3 loops
  * task 1 
  * task 2
  * task 3 
  * task 4 
  * task 5 
  
-2.4 arrays
+3.4 arrays
  * task 1 
  * task 2
  * task 3 
  
-2.5 functions
+3.5 functions
 * task 1
 * task 2
 * task 3
@@ -80,9 +80,9 @@
 * task 7
 * task 8
 
-2.6 functions 2
+3.6 functions 2
 
-2.6.1 basic
+3.6.1 basic
 * task 1
 * task 2
 * task 3
@@ -92,7 +92,7 @@
 * task 7
 * task 8
 
-2.6.2 advanced
+3.6.2 advanced
 
 
 
