@@ -60,6 +60,3 @@
 2.6.2 advanced
 
 
-
-
-Copyright © Coders Lab
