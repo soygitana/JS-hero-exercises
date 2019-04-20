@@ -38,7 +38,7 @@
 * task 1 - get second max number
 * task 2 - get negative numbers
 * task 3 - get even sum
-* task 4 - get Fibonacci mumbers
+* task 4 - get Fibonacci numbers
 * task 5 - prime numbers calculator
 * task 6 - PI calculator
 * task 7 - perfect numbers
