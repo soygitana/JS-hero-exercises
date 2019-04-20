@@ -1,8 +1,8 @@
 # JS hero - exercises
-## various exercises for JS practice
+### various exercises for JS practice
 
 
-### Prework 
+#### Prework 
 
 
 ##### Task 1 
