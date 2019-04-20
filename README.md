@@ -35,13 +35,15 @@
 * task 7 - array reverse 
 
 ##### 1. JS MASTER
-* task 1 - array
-* task 2 - array.length
-* task 3 - array, loop
-* task 4 - array, loop
-* task 5 - max value
-* task 6 - index
-* task 7 - array reverse 
+* task 1 - get second max number
+* task 2 - get negative numbers
+* task 3 - get even sum
+* task 4 - get Fibonacci mumbers
+* task 5 - prime numbers calculator
+* task 6 - PI calculator
+* task 7 - perfect numbers
+* task 8 - sine and cosine 
+
 
 ##### 2. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
 2.1 data types
