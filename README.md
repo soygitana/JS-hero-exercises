@@ -10,6 +10,7 @@
 * task 6
 * task 7
 * task 8
+##### 2. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
 
 
 #### Prework 
