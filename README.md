@@ -49,10 +49,12 @@
 
 #### 3. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
 3.1 DATA TYPES
- * task 1 
- * task 2
- * task 3 
- * task 4 
+ * task 1 - typeof
+ * task 2 - floor and ceil
+ * task 3 - Math.random() * (max - min) + min
+  * t
+ eInt
+
  * task 5 
  
  3.2 CONDITIONAL STATMENT
