@@ -2,7 +2,7 @@
 ----
 ### various exercises for JS practice
 
-##### 1. PREWORK
+#### 1. PREWORK
 1.1 DATA TYPES
 * task 1 - typeof
 * task 2 - sum 
