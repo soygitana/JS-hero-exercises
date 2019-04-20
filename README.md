@@ -1,4 +1,5 @@
 ### JS HERO - EXERCISES
+----
 ### various exercises for JS practice
 
 ##### 1. PREWORK
@@ -99,5 +100,5 @@
 
 
 
-
+----
 Copyright © Coders Lab
