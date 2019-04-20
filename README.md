@@ -71,14 +71,14 @@
  * task 3 - arrays comparison
  
 3.5 FUNCTIONS
-* task 1
-* task 2
-* task 3
-* task 4
-* task 5
-* task 6
-* task 7
-* task 8
+* task 1 - new function
+* task 2 - for loop
+* task 3 - if else
+* task 4 - array, for
+* task 5 - anonymous function
+* task 6 - rent cost - program flow control
+* task 7 - rock paper scissors
+* task 8 - tip calculator
 
 3.6 FUNCTIONS 2
 
