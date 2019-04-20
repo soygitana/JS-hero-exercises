@@ -40,10 +40,7 @@ W celu otrzymania reszty z dzielenia użyj operatora **%** (modulo)*
 ##### Task 6
 
 Napisz funckję ```getPi(n)```, która jako argument przyjmuje liczbę ```n```, oznaczającą liczbę iteracji.
-Funkcja **ma zwracać** wartość liczby **Pi**. Użyj następującej formuły:
-
-```JavaScript
-pi = 4 * ((1/1 - 1/3) + (1/5 - 1/7) + (1/9 - 1/11) + ...)
+Funkcja **ma zwracać** wartość liczby **Pi**. Użyj następującej formuły: pi = 4 * ((1/1 - 1/3) + (1/5 - 1/7) + (1/9 - 1/11) + ...)
 
 
 
