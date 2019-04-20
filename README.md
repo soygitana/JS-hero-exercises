@@ -1,4 +1,4 @@
-# JS-hero-exercises
+# JS hero - exercises
 ## various exercises for JS practice
 
 
