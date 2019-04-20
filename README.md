@@ -32,10 +32,18 @@ Funkcja **ma zwrócić** wartość true lub false, w zależności od tego czy li
 
 *Liczba pierwsza to liczba podzielna przez jeden i samą siebie.*
 
-###### *Zastosuj algorytm **brute force**. Jest to najprostsza &ndash; a zarazem najbardziej czasochłonna metoda wyznaczania liczb pierwszych.
+*Zastosuj algorytm **brute force**. Jest to najprostsza &ndash; a zarazem najbardziej czasochłonna metoda wyznaczania liczb pierwszych.
 Polega na tym, aby sprawdzić wszystkie potencjalne dzielniki danej liczby &ndash; jeżeli dana liczba nie dzieli się przez żadną inną liczbę (oprócz jeden i samej siebie), to jest ona oznaczana jako pierwsza.
 W celu optymalizacji algorytmu sprawdza się wszystkie potencjalne dzielniki nie większe niż pierwiastek z samej sprawdzanej liczby.  Większe wartości nie mogą być już dzielnikami.
 W celu otrzymania reszty z dzielenia użyj operatora **%** (modulo)* 
+
+##### Task 6
+
+Napisz funckję ```getPi(n)```, która jako argument przyjmuje liczbę ```n```, oznaczającą liczbę iteracji.
+Funkcja **ma zwracać** wartość liczby **Pi**. Użyj następującej formuły:
+
+```JavaScript
+pi = 4 * ((1/1 - 1/3) + (1/5 - 1/7) + (1/9 - 1/11) + ...)
 
 
 
