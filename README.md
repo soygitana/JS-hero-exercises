@@ -5,7 +5,7 @@
 #### Prework 
 
 
-##### **Task 1** 
+##### Task 1 
 
 Napisz funkcje ```getSecondMaxNumber(array)```, która jako argument przyjmuje tablicę. Funkcja **ma zwrócić** drugą największą liczbę w tablicy.
 
@@ -42,7 +42,16 @@ W celu otrzymania reszty z dzielenia użyj operatora **%** (modulo)*
 Napisz funckję ```getPi(n)```, która jako argument przyjmuje liczbę ```n```, oznaczającą liczbę iteracji.
 Funkcja **ma zwracać** wartość liczby **Pi**. Użyj następującej formuły: pi = 4 * ((1/1 - 1/3) + (1/5 - 1/7) + (1/9 - 1/11) + ...)
 
+##### Task 7
 
+Napisz funckję ```whatNumber(n)```, która jako argument przyjmuje liczbę ```n```.
+Funkcja **ma zwracać** informację czy podana liczba ```n``` jest liczbą doskonałą, niekompletną czy żadną z tych .
+Jeśli liczba jest doskonała zwróć -> "doskonała"
+Jeżeli liczba jest niekompletna zwróć -> "niekompletna"
+Jeżeli liczba nie jest ani doskonała ani niekompletna zwróć -> false
+
+*Liczba doskonała to taka liczba, która jest sumą wszystkich swoich dzielników (mniejszych od niej). Jest to np. 6:*
+*Liczba niekompletna to taka liczba, która jest większa od sumy wszystkich swoich dzielników. Jest to np. 10:*
 
 
 
