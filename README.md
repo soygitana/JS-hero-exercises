@@ -25,6 +25,15 @@
 * task 7 - nested loops 
 * task 8 - nested loops 
 
+1.4 arrays
+* task 1 - array
+* task 2 - array.length
+* task 3 - array, loop
+* task 4 - array, loop
+* task 5 - max value
+* task 6 - index
+* task 7 - array reverse 
+
 
 ##### 2. DATA TYPES, CONDITIONAL STATEMENT, LOOPS, ARRAYS, FUNCTIONS 
 2.1 data types
