@@ -52,10 +52,8 @@
  * task 1 - typeof
  * task 2 - floor and ceil
  * task 3 - Math.random() * (max - min) + min
-  * t
- eInt
-
- * task 5 
+ * task 4 - parseInt
+ * task 5 - includes
  
  3.2 CONDITIONAL STATMENT
  * task 1 
